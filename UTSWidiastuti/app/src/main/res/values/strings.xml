@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTSWidiastuti</string>
+    <string name="sepatu_name">Nama Sepatu</string>
+    <string name="detail">Detail</string>
+    <string name="About">About</string>
+    <string name="harga">Rp.</string>
+    <string name="ukuran">Ukuran</string>
+</resources>
